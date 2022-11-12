@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2041df;
+    padding: 1rem 2rem;
+    color: #fff;
+}
+
+header a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.avatar {
+    margin: 1.5rem 0;
+}
+.avatar img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

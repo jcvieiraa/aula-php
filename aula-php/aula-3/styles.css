@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: blue;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 1.2rem;
+}
+.slide-links {
+    margin: 2rem;    
+    display: flex;
+}
+.slide-links a {
+    text-decoration: none;
+    margin-left: 1rem;
+    padding: 1rem;
+    border: 1px solid #0000ff;
+    color: #0000FF;
+    border-radius: 1rem;
+}
+
+.oculto {
+    color: #fff;
+}
+
+.titulo{
+    display: flex;
+    justify-content:center;
+    margin: 1rem;
+}
+
+.tabela, .ano, .horas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.horas {
+    margin-bottom: 1rem;
+}
+
+

@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 20px;
+    background-color: blue;
+    color: #FFF;
+    font-size: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+}
+
